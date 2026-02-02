@@ -1,0 +1,54 @@
+Row 3: Debt & Returns
+Card 1: Total Debt
+Large number (selected currency)
+Breakdown: Short-term vs Long-term (click to expand)
+Card 2: Next Loan Payment
+Amount (in loan currency or selected currency)
+Due date with countdown (e.g., "Due in 7 days")
+Loan name
+Card 3: Debt-to-Equity Ratio
+Number (e.g., 1.5)
+Color indicator:
+Green: <1 (low debt)
+Yellow: 1-2 (moderate)
+Red: >2 (high debt)
+Card 4: Interest Coverage Ratio
+Number (EBIT / Interest Expense)
+Color indicator (Green >3, Yellow 1.5-3, Red <1.5)
+Card 5: ROE (Return on Equity)
+Percentage
+Color indicator (Green >15%, Yellow 10-15%, Red <10%)
+Trend sparkline
+Card 6: ROA (Return on Assets)
+Percentage
+Color indicator (Green >10%, Yellow 5-10%, Red <5%)
+Trend sparkline
+Card 7: ROI (Return on Investment)
+Percentage (overall business ROI or specific campaign ROI)
+Color indicator
+Trend sparkline
+Row 4: Operational Metrics
+Card 1: Average CAC (Customer Acquisition Cost)
+Amount (selected currency)
+Trend indicator
+Target comparison (if set)
+Card 2: Average CLTV (Customer Lifetime Value)
+Amount (selected currency)
+Trend indicator
+CLTV/CAC ratio displayed
+Card 3: Average ROAS (Return on Ad Spend)
+Multiplier (e.g., 3.5x)
+Color indicator (Green >3x, Yellow 2-3x, Red <2x)
+Trend indicator
+Card 4: Inventory Turnover
+Number (e.g., 6x)
+Times per year
+Industry benchmark comparison (if available)
+Card 5: Cash Cycle
+Days (e.g., 85 days)
+Trend indicator
+Target comparison (e.g., "15 days above target")
+Card 6: Working Capital
+Amount (selected currency)
+Trend indicator
+Current ratio displayed
